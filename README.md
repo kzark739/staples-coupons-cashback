@@ -1,111 +1,130 @@
-# helloice coupon code: Every Official Code Right Now, the Checkout Rules That Void Them, and How to Stack Cashback on Top
+# staples coupons: Every Active Deal Worth Using, and the Free 4% Cash Back Layer Most Shoppers Miss
 
-Helloice currently lists three codes on its own coupon page: **NEW** ($10 off sitewide for new customers, orders over $30), **A15** (15% off orders of $49 or more), and **BUY 1 GET 1 FREE** (excluding sale items). They can't be combined with each other, and each carries exclusions that matter more than the headline number. The part most deal listings skip entirely: you can also earn cash back on the same order — comparison sites tracked rates up to 15% across portals — if you click through a cashback site like TopCashback before you check out.
+Most people hunting for staples coupons end up on a coupon aggregator, grab a code, and call it done. That leaves money on the table. Staples runs its own coupon page with a rotating set of offers, and on top of that, a cash back portal like TopCashback adds another 4% back on eligible Staples orders — for free, with no minimum payout. Stack the two correctly and a $200 restock of paper, office chairs, and general supplies gets noticeably cheaper.
 
-> **快速结论**：首单直接用 NEW（满 $30 减 $10）；买两件正价首饰用 BOGO；单件 $49 以上、非莫桑石、非 SALE 用 A15。下单前先从 TopCashback 入口进站拿返利。👉 [从 TopCashback 进入 Helloice 并开始追踪返利](https://bit.ly/TopcasHback)
+Here's the short version if you're in a hurry:
 
-## The codes Helloice officially publishes
+> **Most orders:** clip a coupon from Staples' official coupon page, then go through TopCashback for another 4% back on eligible items. TopCashback is free, pays out to PayPal, Venmo, or bank transfer with no minimum, and adds a bonus if you take payout as a gift card. 👉 [Sign up free and activate the 4% Staples cash back](https://bit.ly/TopcasHback)
 
-Helloice runs its own coupon page, and it's the only source that guarantees validity — the page states plainly: "Helloice discounts and coupons will be displayed here first and are guaranteed to be valid." Here's what it currently shows:
+One warning before anything else: **cash back excludes computers, laptops, tablets, gift cards, ink & toner, e-readers, and HP products**. If your cart is all ink cartridges, the coupon is your entire discount. Details below.
 
-| Code | Discount | Minimum spend | Known exclusions |
+## Where the real Staples coupons live right now
+
+Staples publishes its current coupons on its own coupon page, and it's worth checking there before any aggregator, because the official list is what actually rings up at checkout. Here's what was live as of late October:
+
+- **50% off** all Staples shipping boxes when you buy 5 or more (online only, expires 01/02)
+- **20% off** select APC Back-UPS battery backup and surge protectors with any computer or monitor purchase (in store and online, expires 12/31)
+- **25% off** HP mice and keyboards when you buy an HP PC or monitor (in store and online, expires 01/02)
+- **Buy 2, get 1 at 50% off** Staples Bubble Roll (online only, expires 01/02)
+- **Buy 1, get 1 at 50% off** select packing tape (online only)
+- **$30 off** an HP OfficeJet Pro printer when you buy an HP 936 ink cartridge 4-pack (online only, expires 12/31)
+- **25% off** PC accessories and cleaners with a PC, laptop, or monitor purchase (in store and online, expires 01/30)
+- **25% off** any Logitech item with a monitor, laptop, or PC purchase (in store and online, expires 12/31)
+- **$10 off** McAfee+ Premium Individual (online only, expires 12/26)
+
+A few patterns worth noticing. Most of the computer-adjacent coupons are bundled deals — you have to buy the PC or monitor first to unlock the accessory discount. And several of the best-looking ones (those HP printer discounts) are online only, so a store trip won't get you there.
+
+The list rotates constantly. Staples discount codes are active roughly 60% of the year, with most offers between 10% and 40% off, and December is historically the most active month for new codes. Black Friday and Cyber Monday bring the deepest cuts on laptops, printers, and office furniture.
+
+## How Staples coupon codes actually work
+
+Applying a code online takes about thirty seconds: add items to your cart, click the cart icon, hit Checkout, and under the order total there's a promo code field — click Add, enter the code, click Apply. In store, you show the code or barcode on your phone at the register; some offers are online only, and those will say so.
+
+The rule that trips people up: **Staples doesn't let you stack multiple coupons in a single order**, online or in store. One code per order. What you *can* combine with a coupon is your Easy Rewards points, which is a separate system (more on that below).
+
+Two more policies that affect whether a "deal" is really a deal:
+
+- **Price matching:** Staples stores will price match most items, but the online store won't. No price match or price adjustment applies to clearance, Black Friday, Cyber Monday, or other event pricing.
+- **Price adjustments:** if something you bought drops in price within 14 days, you can request the difference — online or in store, subject to those exclusions.
+- **Returns:** you get a full year to return or exchange items, including ones bought with a coupon code, as long as you have the original packaging and receipt.
+
+## The layer coupon sites skip: 4% cash back on your Staples order
+
+Here's the part almost every coupon roundup leaves out. A coupon lowers the price at checkout. A cash back portal pays you a percentage of the order *after* checkout, out of the affiliate commission the retailer pays it. The two stack.
+
+TopCashback's Staples page currently shows **4% cash back** on eligible online purchases, capped at $1,000 cash back per order — plenty of headroom for normal shopping. TopCashback passes along 100% of its commission; that's its whole model, funded by ads and retailer bonuses rather than by skimming your rebate. The platform is free to join, and its last page update noted members had earned over $10,000 in Staples cash back in the preceding month, so this isn't some dormant offer page.
+
+Once cash back moves from "Pending" to "Payable" — which takes weeks to a few months, since the retailer has to confirm the purchase — you can withdraw immediately. There's no minimum for PayPal, Venmo, or ACH bank transfer, and most payments land within one to two business days. Gift cards are the interesting option: TopCashback adds a percentage bonus for gift card payouts, so $100 cashed out as an Amazon or Visa gift card can come back as roughly $105 in spending power.
+
+| Payout method | Speed | Minimum | Notes |
 | --- | --- | --- | --- |
-| **NEW** | $10 off, new customers | $30 | One code per order |
-| **A15** | 15% off | $49 | Excludes SALE and MOISSANITE products |
-| **BUY 1 GET 1 FREE** | Second item free | None listed | Excludes SALE products |
+| PayPal | 1–2 business days | None | Simplest option |
+| Venmo | 1–2 business days | None | Good if you already use it |
+| ACH bank transfer | Up to 5 business days | None | Direct to checking |
+| Gift cards | Usually 1–2 days | Varies by card | Often carries a bonus |
+| Prepaid cards (Visa etc.) | A few days | Varies | Bonus sometimes offered |
 
-Codes are not case sensitive. Copy, paste into the promo box at checkout, hit apply. That's the whole process.
+### Classic or Plus?
 
-The A15 exclusion is the one that catches people. A large share of Helloice's catalog is moissanite — the VVS moissanite chains, rings and earrings the site pushes hardest all sit in that category, and most are already marked down from list price. If your pick is moissanite, A15 won't touch it. You'd take the existing sale price and stack cashback instead.
+TopCashback has two account levels, and the choice is straightforward:
 
-Third-party coupon sites list a much longer menu — one aggregator currently advertises a "$30 off sitewide" code as its top pick, alongside 30% off and various 20%-off codes. A few of these circulate during seasonal campaigns; RebatesMe's own promo feed, for instance, currently shows a new-user offer of 25% off a first order over $69, plus sitewide sales of up to 70% off with buy-one-get-one-free on women's jewelry. But several of the aggregator-listed codes appear on cashback exclusion lists, which changes the math completely. More on that below.
+| Plan | Cost | Gift card payout bonus | Extras | Link |
+| --- | --- | --- | --- | --- |
+| Classic | Free | Up to ~12.5% | Full retailer access, referral bonus | [Start with a free Classic account](https://bit.ly/TopcasHback) |
+| Plus | $5/year (deducted from confirmed cash back) | Up to 25% | Boosted rates at select retailers, extra promos, enhanced statements | [Compare Plus benefits at signup](https://bit.ly/TopcasHback) |
 
-👉 [打开 TopCashback 的 Helloice 页面，先拿返利再下单](https://bit.ly/TopcasHback)
+The Plus fee never comes out of pocket — it's deducted from confirmed cash back, and if your balance is short, it rolls over. The platform's own data puts Plus members about 16% ahead of Classic members on average. The honest math: if you shop online a handful of times a year, Classic is all you need; if you're routing most of your buying through the portal, the doubled gift card bonus usually covers the $5 within a few payouts.
 
-## The checkout rules that actually cancel your discount
+## What doesn't earn cash back
 
-Four details from the official terms trip up first-time buyers. None are hidden, but they're written in legalese nobody reads before placing the order.
+This is the fine print that actually changes decisions, so read it before you plan your whole order around the 4%:
 
-**One code per order.** Coupon codes cannot be combined with any other coupons. There's no workaround; pick the single best code for your cart.
+- **Computers, laptops, tablets, monitors, and e-readers** — excluded
+- **Gift cards** — excluded (buying a Staples gift card earns nothing)
+- **Ink & toner** — excluded, which stings, because that's a staples-purchase in every sense
+- **HP products** — excluded, so those HP printer coupons won't earn cash back on top
+- **Orders placed through the Staples mobile app** — cash back only tracks on browser orders
+- **Staples Business Advantage purchase orders** — excluded
+- **Coupon codes not displayed on TopCashback** — using an outside code can void the cash back entirely
+- **Items already in your cart before you clicked through** — you need to enter Staples with an empty cart
+- **Safari users** — TopCashback explicitly says Safari can't be guaranteed to track; use Chrome or another browser
 
-**Codes don't cover shipping.** Discounts apply to merchandise value only, per the official terms: "Helloice coupon can be used as value for goods, can't be used for shipping fee."
+Those last two are where people lose money without realizing it. Pasting a code from a random aggregator after clicking through TopCashback can get the whole rebate declined as a coupon conflict. And loading up your cart first, then clicking through, means the tracking never attaches to those items. The safe routine: empty cart, click through from TopCashback, then use only the codes it displays on its own Staples page — those are pre-cleared to work alongside the cash back.
 
-**Codes may apply to already-discounted items.** This one works in your favor — the terms say codes "may be applicable to already discounted items," subject to each code's conditions. The binding constraints are A15's SALE and MOISSANITE exclusions and BOGO's SALE exclusion.
+## How to stack everything in one order
 
-**Partial returns claw back the discount.** If a cancellation or return drops your order subtotal below the code's required spend, the coupon savings get deducted from your refund. Practical version: use NEW on a $35 cart, return the $20 item, and your remaining $15 no longer qualifies — part of your refund disappears.
+Done in the right sequence, a single Staples order can carry a coupon, Rewards points, and cash back:
 
-> 凑单前想清楚哪几件会留下。凑门槛的那件退货，折扣会被扣回去。
+1. **Join Easy Rewards first** (free). You earn 1 point per $1 spent, and 200 points equals $1 in rewards. You pick 3 categories for double points — paper, ink & toner, and cleaning supplies are the usual suspects for heavy users.
+2. **Log into TopCashback and find Staples.** Check the rate and the listed coupon codes while you're there.
+3. **Before clicking through:** start with an empty cart, disable your ad blocker, allow third-party cookies, close other shopping or cash back browser extensions, and skip private browsing mode. Tracking runs on cookies, and anything that blocks them eats your rebate.
+4. **Click through to Staples and clip your coupon** from the official coupon page or TopCashback's listed codes. Avoid pasting codes from elsewhere.
+5. **Check out on the browser, not the app**, and apply any Rewards points at payment. Orders of $35+ placed by 3pm on a weekday ship next day free, and many items are available for in-store pickup within 30 minutes.
+6. **If you reorder the same supplies regularly**, Staples' AutoRestock subscription takes another 5% off each order — 10% with two or more items — with a delivery frequency you can adjust anytime.
+7. **Wait it out.** Cash back shows as Pending within days, then goes through the retailer's validation — TopCashback says that averages one to three months. Once it's Payable, withdraw whenever.
 
-## Which code saves the most on your actual cart
+Two housekeeping notes so the money doesn't evaporate: TopCashback allows one account per person, and you need to log in at least once every six months or the account can be flagged as dormant, which puts unwithdrawn cash back at risk. Returns also claw back the related cash back, so don't cash out a rebate on something you might send back. If cash back never tracks at all, you have a 60-day window to file a missing cash back claim with your order details.
 
-For a single item the math is simple. NEW takes a flat $10 off anything over $30 — about 33% on a minimum cart, shrinking in percentage terms as the cart grows. A15 scales with cart size but caps at 15% and skips moissanite entirely.
+## The new-member bonus, if you're signing up anyway
 
-BOGO is where it gets interesting. On two eligible non-sale pieces, buy one get one free works out to roughly 50% off the pair — better than A15 in every qualifying case. Helloice's current promo feed shows BOGO running across several collections simultaneously, including women's jewelry events marked up to 70–80% off. The catch: the official coupon page doesn't spell out which item gets marked free. If your two picks are close in price, the outcome is predictable; if one is $85 and the other $273, check the cart before you commit.
+If you don't have a TopCashback account yet, there's a sign-up incentive worth timing your registration around. The mechanics, as described across current guides: new US members who earn **$10 of confirmed cash back within 180 days** of joining get a welcome bonus credited automatically — no promo code, no separate purchase requirement. A regular Staples order can be part of that qualifying spend; you're not buying anything you wouldn't otherwise.
 
-A workable decision path:
+The advertised amount is where you should stay flexible. Promotion pages currently list a **$35 bonus** with a December 2 cutoff, dropping to $25 afterward, but this comes from promotional guides rather than a permanent terms page. The number displayed during your actual signup is the one that applies to you. Also set expectations on timing: cash back typically confirms 30–90 days after purchase, so a bonus triggered by your first $10 in confirmed earnings can take a couple of months to land. Plan for it, don't budget around it.
 
-1. First order ever → **NEW** on anything over $30. Highest-percentage discount available to you, no contest.
-2. Two or more non-sale pieces → **BOGO**, almost always beats A15.
-3. One item, $49+, not moissanite and not on sale → **A15**.
-4. One moissanite piece already marked down → skip codes, take the sale price, and make cashback your discount instead.
+For context on how this compares: TopCashback's rate-match guarantee says that if you find a higher cash back rate for the same retailer on the same day elsewhere, you can submit a timestamped screenshot within 7 days and it will pay 110% of the competing rate. And its referral program pays around $40–50 per friend who earns their first $10, which is how links like the ones in this article work.
 
-## The cashback layer most coupon lists leave out
+## How this compares to just using coupon sites
 
-Helloice participates in cashback programs, and the cashback applies on top of whatever code you use. One comparison site tracking Helloice rates across portals (updated July 2026) put TopCashback at the top with 15.15%, ahead of Active Junky at 12% and Shopback at 10.5%. A separate comparison from late August listed RebatesMe and BeFrugal at 15% each, GoCashBack up to 13%, and rates down to 7.5% elsewhere. Rates move, so treat these as a snapshot rather than a promise.
+Coupon aggregators are fine for what they do, and it's worth knowing where each tool fits. One rate-tracking site currently compares **34 portals** for Staples, and the picture that emerges is consistent: about 4% is the going baseline, with promotional spikes — RetailMeNot recently listed 6% sitewide (capped at $50 per order, excluding HP printers and toner, expiring late October), and rates have hit 15% during past promo events. Another tracker logged more than 20 rate changes in a 90-day window.
 
-The mechanics are the same everywhere: register with the cashback site, click through its link to Helloice, shop normally, and the transaction gets tracked to your account and paid after the merchant confirms it. 👉 [注册并通过 TopCashback 下单 Helloice](https://bit.ly/TopcasHback)
+For a first order, sign-up bonuses can matter more than the rate itself. BeFrugal pays new members 9% on the first $120 of their first order (4% after), and Extrabux advertises a $20 welcome bonus — on a $100 purchase, that's worth more than any percentage-point difference. Rakuten tops out around 4% on most items and 2% on toner and electronics, but it's the only major portal that lets you take rewards as Amex points instead of cash, which matters if you're collecting them.
 
-The tracking step has real gotchas, and Shopback's published terms for Helloice illustrate them well: purchases are tracked within 2 days and confirmed within 90; you need to clear your cart and start from the platform each time; you must accept all cookies on Helloice's pages for the transaction to be recorded; and ad blockers, VPNs, or clicking third-party links mid-session can break tracking. If a payment fails, restart from the portal. These rules apply broadly across cashback portals, TopCashback included — the browser extension route ("apply cashback savings as you shop with just one click") reduces the fiddling.
+Where TopCashback holds its own: no minimum payout threshold, full commission pass-through, gift card bonuses, the rate-match guarantee, and a rolling withdrawal system instead of a fixed payout schedule. Practical approach for a big Staples order: check two portals' current rates, weigh any sign-up bonus you'd qualify for, and remember that on small repeat purchases, the no-threshold payout means small rebates never get stranded.
 
-One more thing worth knowing: cashback on jewelry typically excludes taxes and shipping, and rebates are calculated on actual merchandise value — so a 15% rate applies to your product subtotal, not the checkout total.
+## Quick answers
 
-## The codes that void your cashback
+**Do Staples coupons work in store?** Yes, unless marked online only — show the code or barcode on your phone at checkout. Several current offers, including the APC and HP accessory discounts, work both ways.
 
-Here's the conflict most deal roundups never mention: some heavily promoted coupon codes are explicitly excluded from cashback eligibility. RebatesMe's Helloice terms name the voiding codes outright: R30, WMGC20, C30, PT20, MM60, OFF45, OFF90, hn40, U20, U15, and MBB15 — and state that orders using promo codes not listed by RebatesMe forfeit cash back. C30 and R30, the "$30 off" and "30% off" codes that third-party sites advertise as top picks, are on that list.
+**Can I use two coupons on one order?** No. One coupon code per order, online or in store. Rewards points are the thing you can combine with a coupon.
 
-The general portal rule is the same even where no code list exists: use a coupon that wasn't published on the cashback site itself and the cashback can't be guaranteed. The officially listed NEW, A15 and BOGO codes are the safer play if you want both discounts to land — they're Helloice's own, guaranteed valid on the store's page, and they sit outside the known exclusion lists.
+**Why is my cash back still pending?** Retailer validation averages one to three months, and it's normal. It only becomes withdrawable once it flips to Payable. If it never tracks, file a missing cash back claim within 60 days with your order details — resolution can take months.
 
-Run the numbers before choosing a mystery code. On a $139 moissanite rope chain, a verified 15% cashback is worth about $21 — more than most of the questionable codes claim to save, with none of the validity risk.
+**Does cash back work on printers or ink?** Ink and toner never earn it, and HP products are excluded entirely. Those discounts are coupon-only savings.
 
-## What Helloice actually sells, and current price points
+**When can I actually withdraw?** As soon as anything is Payable. PayPal, Venmo, and bank transfer have no minimum — even a dollar of cash back can come out.
 
-Helloice is a hip-hop jewelry store founded in 2017, based in Sheung Wan, Hong Kong. The core line is 925 sterling silver set with VVS1 moissanite: Cuban link chains, pendants, rings, earrings and watches. Current listings give a feel for where prices sit:
+## Before you check out
 
-- 925 silver & VVS1 hoop earrings (white gold) — $109
-- 925S & VVS moissanite stud earrings — around $128–129
-- Marquise & round full diamond ring — $139
-- 6mm 925S & VVS moissanite rope chain (stainless steel clasp) — $139
-- 8.95CT oval cut VVS moissanite pave engagement ring set — $159, down from $189
-- 925S & VVS moissanite 6mm Cuban link chain — $273
-- 0.89ct square halo engagement ring — $85, down from $158
+If you buy from Staples a few times a year, the coupons alone are probably enough effort for you — clip one from the official page and move on. If you're stocking a home office or running regular orders for a small business, the stacking adds up: coupons plus Rewards points plus 4% cash back, with AutoRestock trimming another 5–10% off repeat orders. A few hundred dollars of supplies per quarter turns into $10–20 of rebates per quarter, which cashes out to PayPal with no fuss.
 
-Moissanite pieces cluster between roughly $85 and $280. That range is exactly why BOGO works so hard there — two mid-range pieces at $110–140 each effectively halve the per-item cost, and the cashback applies to the merchandise total on top. 👉 [进 TopCashback 看当前返现率，再去挑货](https://bit.ly/TopcasHback)
-
-## FAQ
-
-**Do Helloice coupon codes expire?**
-Yes. The official terms state expired codes won't be accepted, and Helloice reserves the right to change or restrict any code at any time. The store updates promotions regularly and asks you to check the official coupon page before every purchase.
-
-**Can I use two codes on one order?**
-No. Codes cannot be combined with other coupons. One per order.
-
-**Do codes work on sale items?**
-Sometimes. Official terms allow codes to apply to already-discounted items where the individual code's conditions permit. A15 excludes both SALE and MOISSANITE products; BOGO excludes SALE products.
-
-**Can I stack a coupon code with cashback?**
-Generally yes, when the code is one of Helloice's officially published ones. Avoid the aggregator codes that portals explicitly void — the named exclusions include R30, C30, PT20, MM60 and several others.
-
-**How long does cashback take to pay out?**
-Based on published portal terms: tracked within roughly 1–2 days, confirmed within up to 90 days, and moved to payable status 90 days after posting, with some merchants taking up to 180. Jewelry cashback is a waiting game.
-
-**What happens if I return part of my order?**
-If the return drops your subtotal below the code's minimum spend, the coupon savings are deducted from your refund. Don't pad a cart with items you plan to return.
-
-**Is Helloice legit for moissanite?**
-The store's entire premise is 925 sterling silver with VVS1 moissanite at prices far below mined-diamond equivalents — the product listings are explicit about material, cut and stone specs. Confirm the spec on the individual product page before buying.
-
-## If you're ordering today
-
-First order at Helloice? Use NEW on a $30+ cart — nothing else comes close on percentage for a single-item purchase. Two non-sale pieces you'd buy anyway? BOGO wins; skip percentage codes entirely. A single moissanite piece already on sale? Take the markdown, skip codes, and click through TopCashback before checkout so the tracking cookie is in place — that's the discount layer that doesn't conflict with anything. 👉 [从 TopCashback 入口下单，码和返利一起拿](https://bit.ly/TopcasHback)
-
-Two checks before you pay: confirm which single code wins on your actual cart, and make sure you're not about to paste a code that sits on a cashback exclusion list. If the code isn't on Helloice's official coupon page, assume the cashback is at risk until you've checked the portal's terms.
+Before any order, run the ten-second sanity check: everything in the cart actually eligible (no laptops, monitors, ink, or HP gear if you want the rebate), cart emptied before clicking through, ad blocker off, coupon from the official page or TopCashback's listed codes only. Then check out and let the rebate queue up. 👉 [Start your free TopCashback account and lock in the 4% Staples cash back](https://bit.ly/TopcasHback)
